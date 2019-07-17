@@ -126,7 +126,7 @@ author:
       url: "https://m.blog.naver.com/PostList.nhn?blogId=su_j615"   
     - label: "이용재 Blog"
       icon: "fas fa-fw fa-envelope-square"
-      url: "https://dididy.github.io/"   
+      url: "https://mogacko.github.io/"   
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
